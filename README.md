@@ -51,4 +51,4 @@ ________________________________________
 Conclusion
 The analysis provides actionable insights that can be used to optimize offer campaigns and increase engagement. The project demonstrates the value of using data to understand customer behavior and drive business decisions.
 
-
+Date source: https://app.mavenanalytics.io/datasets
