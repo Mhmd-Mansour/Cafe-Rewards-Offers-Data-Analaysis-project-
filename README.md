@@ -10,6 +10,7 @@ ________________________________________
 Results & Business Recommendations
 
 The analysis was performed using Python, with a focus on data cleaning, transformation, and visualization. Key findings and their corresponding business recommendations are as follows:
+
 •	Question 1: How many reward offers were completed?
 
 o	Finding: A total of 33,579 offers were completed during the 30-day period.
