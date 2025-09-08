@@ -11,6 +11,7 @@ Results & Business Recommendations
 
 The analysis was performed using Python, with a focus on data cleaning, transformation, and visualization. Key findings and their corresponding business recommendations are as follows:
 •	Question 1: How many reward offers were completed?
+
 o	Finding: A total of 33,579 offers were completed during the 30-day period.
 
  
@@ -20,6 +21,7 @@ o	Finding: A total of 33,579 offers were completed during the 30-day period.
 
 
 •	Question 2: Which offers had the highest completion rate?
+
 o	Finding: Offers with the highest completion rates were primarily BOGO and discount offers. The top performers included offers with IDs like fafdcd668e3743c1bb461111dcafc2a and 2298d6c36e964ae4a3e7e9706d1fb8c2.
 
  <img width="824" height="433" alt="output2" src="https://github.com/user-attachments/assets/fa6c95b3-d09d-491b-ac31-39d8d238ae99" />
